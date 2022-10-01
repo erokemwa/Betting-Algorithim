@@ -19,6 +19,8 @@ int main(void)
                 printf("Good odds possible\n");
         else if (odd > 3.2 && odd < 5.9)
                 printf("Hope you're right lad\n");
+        else if (odd > 5.9)
+                printf("Greed, for lack of a better word, is good\n");
                 
         return (0);
  }
