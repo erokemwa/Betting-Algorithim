@@ -1,4 +1,4 @@
-#Include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - algorithim that calculates best odds to bet
