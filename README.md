@@ -1,3 +1,3 @@
 # Sports Betting Algorithim
 
-Lets Gamble
+Lets Gamble.
